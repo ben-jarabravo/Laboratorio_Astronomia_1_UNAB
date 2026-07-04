@@ -1,2 +1,2 @@
-# Laboratorio_Astronom-a_1_UNAB
+# Laboratorio de Astronomía 1
 Curso Laboratorio de Astronomía UNAB
